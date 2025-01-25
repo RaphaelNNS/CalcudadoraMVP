@@ -61,7 +61,7 @@ CalculadoraMVP/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SeuUsuario/CalculadoraMVP.git
+   git clone https://github.com/RaphaelNNS/CalculadoraMVP.git
    ```
 
 2. Abra o projeto no **Android Studio**.
@@ -80,6 +80,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## **🔗 Referências**
 
-- [CalculadoraMVC](https://github.com/RaphaelNNS/CalculadoraMVC.git): Projeto original que inspirou esta aplicação.
+- [CalculadoraMVC](https://github.com/RaphaelNNS/CalculadoraMVC.git): Projeto original 
 
 --- 
