@@ -70,6 +70,13 @@ CalculadoraMVP/
 
 4. Execute o aplicativo em um dispositivo ou emulador Android.
 
+
+
+
+https://github.com/user-attachments/assets/b94ed058-16cb-4692-b559-0f93c6e9e1ee
+
+
+
 ---
 
 ## **📢 Contribuições**
